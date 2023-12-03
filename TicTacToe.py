@@ -62,6 +62,7 @@ while a < 8:                                            # Spielschleife für max
     while b == len(Felder_hilf):             
         if spieler_1 == 1:
             ZugS = input ('Dein Zug: ')
+            # Hier würde das Exception Handling eingefügt werden
             dS = 0
             while dS < len(Felder):                     # Festlegung der Kennzeichnung der bespielten Felder
                 if Felder[dS] == ZugS:
