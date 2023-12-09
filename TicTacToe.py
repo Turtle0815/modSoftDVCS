@@ -7,6 +7,8 @@ Created on Mon Nov 27 15:37:51 2023
 import random
 import time
 
+# Dies ist ein Test zum Mergen verschiedener Branches 
+
 print ('Dörte Binder')
 print ('OSMI Master')
 print ('Moderne Softrwareentwicklung Wintersemester 2023/24')
